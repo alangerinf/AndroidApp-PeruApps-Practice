@@ -18,13 +18,20 @@
 
         </activity>
         <activity
-            android:name="com.alanger.peruappstest.main.view.TabbetActivity"
-            android:theme="@style/AppThemeMaterial.NoActionBar">
+            android:name="com.alanger.peruappstest.preloader.ActivityPreloader"
+            android:theme="@style/AppTheme.Fullscreen"
+
+            >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.alanger.peruappstest.main.view.TabbetActivity"
+            android:theme="@style/AppThemeMaterial.NoActionBar">
+
         </activity>
     </application>
 
