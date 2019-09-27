@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AGPost</string>
+
+    <string name="tab_text_1">EndPoint</string>
+    <string name="tab_text_2">Mis Favoritos</string>
+
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="comentario">Comentario</string>
+    <string name="texthint_escribecomentario">Escribe tu comentario</string>
+</resources>
